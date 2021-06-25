@@ -1,6 +1,5 @@
 """
 ToPDF.py , 25/06/2021
-no copyright
 author: LucasVBR
 """
 from os import path
