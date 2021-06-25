@@ -1,5 +1,4 @@
 :: execute.bat, 25/06/2021
-:: no copyright
 :: author: LucasVBR
 
 @ECHO OFF
